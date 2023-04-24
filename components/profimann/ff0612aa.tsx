@@ -15,7 +15,7 @@ export const FF0612AA = ({ data }: Props) => {
     href={`${element?.link}`}
     rel="noopener noreferrer"
     target="_blank"
-    className={`cursor-pointer border-r-2 border-slate-800 w-[calc(100%/${process.env.NEXT_PUBLIC_MODELS})] text-center`}
+    className={`cursor-pointer border-r-2 border-slate-800 w-[calc(100%/25)] text-center`}
    >
     {element?.price.slice(0, element?.price.indexOf("."))}
    </Link>
