@@ -1,7 +1,12 @@
+// @ts-nocheck
+
 import { Rolfis } from "@/components/rolfis";
 import { resolveUrl } from "@/utils";
 import Head from "next/head";
 import { links } from "@/utils/links";
+import { Props } from "@/types";
+import { Profimann } from "@/components/profimann";
+import { HeadRow } from "@/components/headRow";
 
 export const getServerSideProps = async () => {
  let res = [];
@@ -22,7 +27,7 @@ export const getServerSideProps = async () => {
  };
 };
 
-export default function Home(props) {
+export default function Home(props: { res: Props }) {
  return (
   <div className="text-md font-semibold p-2 text-slate-50">
    <Head>
@@ -31,7 +36,9 @@ export default function Home(props) {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="/favicon.ico" />
    </Head>
+   <HeadRow />
    <Rolfis data={props.res} />
+   <Profimann data={props.res} />
   </div>
  );
 }
