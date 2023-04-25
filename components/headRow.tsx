@@ -28,11 +28,7 @@ export const HeadRow = () => {
     <HeadRowElem>lamp 2GPM</HeadRowElem>
     <HeadRowElem>lamp 6GPM</HeadRowElem>
     <HeadRowElem>lamp 10GPM</HeadRowElem>
-    <div
-     className={`w-[calc(100%/${process.env.NEXT_PUBLIC_MODELS})] text-sm text-center`}
-    >
-     lamp 12GPM
-    </div>
+    <div className={`w-25r text-sm text-center`}>lamp 12GPM</div>
    </div>
   </div>
  );

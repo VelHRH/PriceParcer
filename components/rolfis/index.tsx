@@ -6,7 +6,7 @@ export const Rolfis = ({ data }: IFilters) => {
  return (
   <div className="flex items-center">
    <div className="w-20">{site}</div>
-   <div className="flex-1 flex bg-slate-800 py-1 rounded-md ml-2">
+   <div className="flex-1 flex bg-slate-800 py-1 rounded-md ml-2 w-full">
     {data
      .filter((d) => d.website === site)
      .map((el) => (

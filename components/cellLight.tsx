@@ -25,9 +25,7 @@ export const CellLight = ({
     href={`${link}`}
     rel="noopener noreferrer"
     target="_blank"
-    className={`cursor-pointer border-r-2 border-slate-700 w-[${
-     100 / parseInt(process.env.MODELS || "25", 10)
-    }%] text-center ${
+    className={`cursor-pointer border-r-2 border-slate-700 w-25r text-center ${
      parseFloat(children.replace(/\s/g, "")) >
       parseFloat(normalPrice.replace(/\s/g, "")) * 1.05 && "text-red-400"
     }`}
