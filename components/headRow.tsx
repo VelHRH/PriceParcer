@@ -1,13 +1,13 @@
 import { HeadRowElem } from "./headRowElem";
+import { links } from "@/utils/data";
 export const HeadRow = () => {
  return (
   <div className="flex items-center">
    <div className="w-20"></div>
    <div className="flex-1 flex py-1 mb-2 ml-2 items-center">
-    <HeadRowElem>FF06-1/2AA</HeadRowElem>
-    <HeadRowElem>FF06-1/2AAM</HeadRowElem>
-    <HeadRowElem>FK06-1/2AA</HeadRowElem>
-    <HeadRowElem>FK06-1/2AAM</HeadRowElem>
+    {links.slice(0, 4).map((link) => (
+     <HeadRowElem key={link.link}>{link.name}</HeadRowElem>
+    ))}
     <HeadRowElem>D04FM-1/2A</HeadRowElem>
     <HeadRowElem>FF06-3/4AA</HeadRowElem>
     <HeadRowElem>S330RL</HeadRowElem>

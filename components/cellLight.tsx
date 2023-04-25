@@ -10,7 +10,7 @@ export const CellLight = ({
  normalPrice,
 }: {
  link: string;
- children: React.ReactNode;
+ children: string;
  tooltip: string;
  normalPrice: string;
 }) => {
@@ -20,7 +20,12 @@ export const CellLight = ({
     href={`${link}`}
     rel="noopener noreferrer"
     target="_blank"
-    className={`cursor-pointer border-r-2 border-slate-700 w-[calc(100%/${process.env.MODELS})] text-center`}
+    className={`cursor-pointer border-r-2 border-slate-700 w-[calc(100%/${
+     process.env.MODELS
+    })] text-center ${
+     parseFloat(children.replace(/\s/g, "")) >
+      parseFloat(normalPrice.replace(/\s/g, "")) * 1.05 && "text-red-400"
+    }`}
    >
     {children}
    </Link>
