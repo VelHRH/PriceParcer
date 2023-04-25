@@ -1,7 +1,5 @@
-import Tippy from "@tippyjs/react";
-import "react-tippy/dist/tippy.css";
 import { Props } from "@/types";
-import Link from "next/link";
+import { CellDark } from "../cellDark";
 
 export const FF0612AA = ({ data }: Props) => {
  const element = data.find(
@@ -10,15 +8,8 @@ export const FF0612AA = ({ data }: Props) => {
    d.link.toLowerCase().includes("profimann")
  );
  return (
-  <Tippy content="Profimann, FF06-1/2AA" animation="scale" arrow={true}>
-   <Link
-    href={`${element?.link}`}
-    rel="noopener noreferrer"
-    target="_blank"
-    className={`cursor-pointer border-r-2 border-slate-800 w-[calc(100%/25)] text-center`}
-   >
-    {element?.price.slice(0, element?.price.indexOf("."))}
-   </Link>
-  </Tippy>
+  <CellDark link={`${element?.link}`} tooltip="Profimann, FF06-1/2AA">
+   {element?.price.slice(0, element?.price.indexOf("."))}
+  </CellDark>
  );
 };
