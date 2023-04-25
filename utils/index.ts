@@ -25,5 +25,5 @@ export const resolveUrl = async (link: string) => {
   price = $("#sec_discounted_price_3569").text();
  }
  const lastScraped = new Date().toISOString();
- return { title, price, lastScraped };
+ return { price, lastScraped };
 };

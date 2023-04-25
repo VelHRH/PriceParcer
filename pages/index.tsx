@@ -3,19 +3,21 @@
 import { Rolfis } from "@/components/rolfis";
 import { resolveUrl } from "@/utils";
 import Head from "next/head";
-import { links } from "@/utils/links";
-import { Props } from "@/types";
+import { links } from "@/utils/data";
+import { IFilters } from "@/types";
 import { Profimann } from "@/components/profimann";
 import { HeadRow } from "@/components/headRow";
 
 export const getServerSideProps = async () => {
  let res = [];
  for (let link of links) {
-  const { title, price, lastScraped } = await resolveUrl(link);
+  const { price, lastScraped } = await resolveUrl(link.link);
   res.push({
-   link,
-   title,
+   link: link.link,
+   title: link.name,
+   website: link.website,
    price,
+   normalPrice: link.normalPrice,
    lastScraped,
   });
  }
@@ -27,7 +29,7 @@ export const getServerSideProps = async () => {
  };
 };
 
-export default function Home(props: { res: Props }) {
+export default function Home(props: { res: IFilters }) {
  return (
   <div className="text-md font-semibold p-2 text-slate-50">
    <Head>

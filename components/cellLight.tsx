@@ -7,10 +7,12 @@ export const CellLight = ({
  link,
  children,
  tooltip,
+ normalPrice,
 }: {
  link: string;
  children: React.ReactNode;
  tooltip: string;
+ normalPrice: string;
 }) => {
  return (
   <Tippy content={`${tooltip}`} animation="scale" arrow={true}>
