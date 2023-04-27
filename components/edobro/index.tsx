@@ -1,8 +1,8 @@
 import { IFilters } from "@/types";
-import { ProfimannCell } from "./profimannCell";
+import { EdobroCell } from "./edobroCell";
 
-export const Profimann = ({ data }: IFilters) => {
- const site = "Profimann";
+export const Edobro = ({ data }: IFilters) => {
+ const site = "Edobro";
  return (
   <div className="flex items-center w-full">
    <div className="w-20 text-sky-200">{site}</div>
@@ -10,7 +10,7 @@ export const Profimann = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <ProfimannCell key={el.link} element={el} />
+      <EdobroCell key={el.link} element={el} />
      ))}
    </div>
   </div>
