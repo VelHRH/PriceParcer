@@ -366,6 +366,160 @@ export const links = [
  },
 
  {
+  link: "https://aquapure.com.ua/filtr-dlya-vody",
+  website: "Aquapure",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link: "",
+  website: "Aquapure",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link:
+   "https://aquapure.com.ua/honeywell-fk06-1-2aa-promyvnoj-filtr-dlya-vody-s-reduktorom",
+  website: "Aquapure",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "",
+  website: "Aquapure",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Aquapure",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "https://aquapure.com.ua/filtr-dlya-vody-honeywell-ff06-3-4aa",
+  website: "Aquapure",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link:
+   "https://aquapure.com.ua/smennaya-lampa-lampa-viqua-steriligt-ex-s330rl",
+  website: "Aquapure",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "https://aquapure.com.ua/sterilume-s463rl",
+  website: "Aquapure",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "https://aquapure.com.ua/smennaya-lampa-sterilume-ex-s810rl",
+  website: "Aquapure",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "https://aquapure.com.ua/smennaya-lampa-viqua-steriligt-s36rl",
+  website: "Aquapure",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "https://aquapure.com.ua/smennaya-lampa-viqua-s150rl-ho",
+  website: "Aquapure",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "https://aquapure.com.ua/smennaya-lampa",
+  website: "Aquapure",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "https://aquapure.com.ua/viqua-sterilight-s5q-pa",
+  website: "Aquapure",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "https://aquapure.com.ua/viqua-sterilight-vh410-2-uf-obezzarazhevatel",
+  website: "Aquapure",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "",
+  website: "Aquapure",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Aquapure",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "https://aquapure.com.ua/crystal-uv-2gpm-uf-sterilizator",
+  website: "Aquapure",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link:
+   "https://aquapure.com.ua/viqua-sterilight-650696-r-d4-uf-obezzarazhevatel",
+  website: "Aquapure",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "https://aquapure.com.ua/crystal-uv-6gmp-uf-sterilizator",
+  website: "Aquapure",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "https://aquapure.com.ua/crystal-uv-12gmp-uf-sterilizator",
+  website: "Aquapure",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Aquapure",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "https://aquapure.com.ua/crystal-uv-2gmp-uf-sterilizator",
+  website: "Aquapure",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "https://aquapure.com.ua/crystal-uv-6gpm-smennaya-lampa",
+  website: "Aquapure",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "https://aquapure.com.ua/crystal-uv-10gpm-smennaya-lampa",
+  website: "Aquapure",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "https://aquapure.com.ua/crystal-uv-12gpm-smennaya-uf-lampa",
+  website: "Aquapure",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
   link:
    "https://profimann.com.ua/filtry-dlya-vody/filtry-mehanicheskoy-ochistki-vody/promyvnoy-filtr-honeywell-ff06-1-2aa-100-mkm-dlya-holodnoy-vody/",
   website: "Profimann",

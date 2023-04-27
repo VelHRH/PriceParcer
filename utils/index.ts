@@ -30,6 +30,11 @@ export const resolveUrl = async (link: string) => {
     "#product > div > div.container > div.row.product-image-summary-wrap > div > div > div.col-sm-6.summary.entry-summary > div > p > del > span"
    ).text();
  }
+ if (link.includes("aquapure")) {
+  price = $(
+   "#product > div.product-page__actions.product-page__actions--bordered.products-qty-info > div.products-full-list__price > span > span:nth-child(1)"
+  ).text();
+ }
  const lastScraped = new Date().toISOString();
  return { price, lastScraped };
 };

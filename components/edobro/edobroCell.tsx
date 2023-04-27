@@ -8,7 +8,7 @@ export const EdobroCell = ({ element }: { element: IFilter }) => {
    tooltip={`${element.website}, ${element.title}`}
    normalPrice={`${element.normalPrice}`}
   >
-   {element?.price.slice(0, element?.price.indexOf("г"))}
+   {element?.price.slice(0, element?.price.indexOf("г")).replace(/\s/g, "")}
   </CellDark>
  );
 };

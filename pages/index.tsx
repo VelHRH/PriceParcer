@@ -8,6 +8,7 @@ import { IFilters } from "@/types";
 import { Profimann } from "@/components/profimann";
 import { HeadRow } from "@/components/headRow";
 import { Edobro } from "@/components/edobro";
+import { Aquapure } from "@/components/aquapure";
 
 export const getServerSideProps = async () => {
  let res = [];
@@ -42,6 +43,7 @@ export default function Home(props: { res: IFilters }) {
    <HeadRow />
    <Rolfis data={props.res} />
    <Edobro data={props.res} />
+   <Aquapure data={props.res} />
    <Profimann data={props.res} />
   </div>
  );
