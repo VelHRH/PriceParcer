@@ -24,7 +24,7 @@ import { Hydroeco } from "@/components/hydroeco";
 import { Filter } from "@/components/filter";
 import { Softis } from "@/components/softis";
 
-export const getServerSideProps = async () => {
+export const getStaticProps = async () => {
  let res = [];
  for (let link of links) {
   const { price, lastScraped } = await resolveUrl(link.link);
@@ -42,6 +42,7 @@ export const getServerSideProps = async () => {
   props: {
    res,
   },
+  revalidate: 86400,
  };
 };
 
