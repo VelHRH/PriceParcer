@@ -14,6 +14,15 @@ import { Ukrakvateh } from "@/components/ukrakvateh";
 import { Pershavoda } from "@/components/pershavoda";
 import { Komfortvoda } from "@/components/komfortvoda";
 import { Akvo } from "@/components/akvo";
+import { Fons } from "@/components/fons";
+import { Filterpoint } from "@/components/filterpoint";
+import { Nemofilter } from "@/components/nemofilter";
+import { Aqualife } from "@/components/aqualife";
+import { Smartfilter } from "@/components/smartfilter";
+import { Afilter } from "@/components/afilter";
+import { Hydroeco } from "@/components/hydroeco";
+import { Filter } from "@/components/filter";
+import { Softis } from "@/components/softis";
 
 export const getServerSideProps = async () => {
  let res = [];
@@ -54,7 +63,16 @@ export default function Home(props: { res: IFilters }) {
    <Pershavoda data={props.res} />
    <Komfortvoda data={props.res} />
    <Akvo data={props.res} />
+   <Fons data={props.res} />
+   <Filterpoint data={props.res} />
+   <Nemofilter data={props.res} />
+   <Aqualife data={props.res} />
+   <Smartfilter data={props.res} />
+   <Afilter data={props.res} />
+   <Hydroeco data={props.res} />
    <Profimann data={props.res} />
+   <Filter data={props.res} />
+   <Softis data={props.res} />
   </div>
  );
 }

@@ -16,7 +16,9 @@ export const resolveUrl = async (link: string) => {
    ).text();
  }
  if (link.includes("profimann")) {
-  price = $("#sec_discounted_price_3569").text();
+  price = $(
+   "#tygh_main_container > section.content > div > div:nth-child(2) > section > div:nth-child(1) > div > div.product-block-features.product-block-left.col-lg-4.col-sm-6.col-xs-12 > form > div.prices-container.price-wrap.clearfix > div > div.product-block-price-actual > span > span.price.red > span > span.price-num"
+  ).text();
  }
  if (link.includes("edobro")) {
   price =
@@ -46,9 +48,9 @@ export const resolveUrl = async (link: string) => {
   ).text();
  }
  if (link.includes("pershavoda")) {
-  price = $(
-   "#product > div.col-sm-7.prod_wrap > ul > li > span.price_show"
-  ).text();
+  price =
+   $("#product > div.col-sm-7.prod_wrap > ul > li > span.price_show").text() ||
+   "1";
  }
  if (link.includes("komfort-voda")) {
   price = $(
@@ -58,6 +60,55 @@ export const resolveUrl = async (link: string) => {
  if (link.includes("akvo.com.ua")) {
   price = $(
    "#datatab_main > div > div.product-about.flex > div.product-data > div.product-top.flex > div.product-top_items > div.product-action.product-top_item.flex > div.product-hit > div.product-hit__wrapper > div.product-hit_price > div"
+  ).text();
+ }
+ if (link.includes("fons.com.ua")) {
+  price = $("#main-product-price").text();
+ }
+ if (link.includes("filterpoint")) {
+  price = $(
+   "#fm_product_right > div > div.fm-price-block.fm-product-right-block > div > span"
+  ).text();
+ }
+ if (link.includes("nemofilter")) {
+  price =
+   $(
+    "#content > div > div.tovar_LCR > div.tovar_C > div:nth-child(3) > div.tovar_tsena > div.tovar_main_RH"
+   ).text() ||
+   $(
+    "#content > div > div.tovar_LCR > div.tovar_C > div:nth-child(4) > div.tovar_tsena > div.tovar_main_RH"
+   ).text();
+ }
+ if (link.includes("aqua-life")) {
+  price = $(
+   "#main > div.wrapper > section > div.product__grid > div.product__column.product__column--right.product__column--sticky > div > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div.product__block.product__block--wide > div > div > div"
+  ).text();
+ }
+ if (link.includes("smartfilter")) {
+  price =
+   $(
+    "#product_addtocart_form > div.product-view-detail > div.em-product-view.row > div.em-product-view-secondary.em-product-shop.col-sm-10 > div > div:nth-child(2) > div > p.special-price"
+   ).text() ||
+   $(
+    "#product_addtocart_form > div.product-view-detail > div.em-product-view.row > div.em-product-view-secondary.em-product-shop.col-sm-10 > div > div:nth-child(2) > div > p.old-price"
+   ).text();
+ }
+ if (link.includes("a-filter")) {
+  price = $(
+   "body > main > article > div.cs-page__main-content > div.cs-product.js-productad > div.cs-product__info-row > div.cs-product__wholesale-price.cs-online-edit > div > p > span:nth-child(1)"
+  ).text();
+ }
+ if (link.includes("hydroeco")) {
+  price = $(
+   "body > div.cs-page > div:nth-child(2) > div > div.js-productad > div > div > div.cs-product__info > div > div:nth-child(2) > div > div > p > span:nth-child(1)"
+  ).text();
+ }
+ if (link.includes("filter.ua")) {
+  price = $("#ecomm_price").text();
+ }
+ if (link.includes("softis")) {
+  price = $(
+   "#panel > div > div > div.row.categories-products-row > div > div.row.product-row.product-with-image > div.product-details-block.product-container.max-6.desktop-6.tablet-6.mobile-3.min-3 > div.product-price-buy-block > div.product-price-block > price > div > span"
   ).text();
  }
  const lastScraped = new Date().toISOString();

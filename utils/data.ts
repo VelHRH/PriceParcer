@@ -1299,9 +1299,1574 @@ export const links = [
 
  {
   link:
+   "https://fons.com.ua/honeywell-miniplus-ff06-1-2aa-samopromyvnoj-mehanicheskij-filtr?search=FF06",
+  website: "Fons",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link:
+   "https://fons.com.ua/honeywell-miniplus-ff06-1-2aam-samopromyvnoj-mehanicheskij-filtr?search=FF06",
+  website: "Fons",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link:
+   "https://fons.com.ua/honeywell-miniplus-fk06-1-2aa-samopromyvnoj-mehanicheskij-filtr?search=FK06",
+  website: "Fons",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link:
+   "https://fons.com.ua/honeywell-miniplus-fk06-1-2aam-samopromyvnoj-mehanicheskij-filtr?search=FK06",
+  website: "Fons",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link:
+   "https://fons.com.ua/honeywell-miniplus-ff06-3-4aa-samopromyvnoj-mehanicheskij-filtr?search=FF06",
+  website: "Fons",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link:
+   "https://fons.com.ua/viqua-sterilight-r-can-s330rl-uf-smennaya-lampa-dlya-vody?search=S330",
+  website: "Fons",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link:
+   "https://fons.com.ua/viqua-sterilight-r-can-s463rl-uf-smennaya-lampa-dlya-vody?search=S463",
+  website: "Fons",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link:
+   "https://fons.com.ua/viqua-sterilight-r-can-s810rl-uf-smennaya-lampa-dlya-vody?search=S810",
+  website: "Fons",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link:
+   "https://fons.com.ua/viqua-sterilight-r-can-s36rl-uf-smennaya-lampa-dlya-vody?search=S36",
+  website: "Fons",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Fons",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link:
+   "https://filterpoint.com.ua/viqua-smennyj-izluchatel-dlja-ultrafioletovogo-obezzarazhivanija-viqua-s330rl-330-mm-fp013256-ru?search=S330",
+  website: "Filterpoint",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link:
+   "https://filterpoint.com.ua/viqua-smennyj-izluchatel-dlja-ultrafioletovogo-obezzarazhivanija-viqua-s463rl-460-mm-fp013258-ru",
+  website: "Filterpoint",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link:
+   "https://filterpoint.com.ua/viqua-smennyj-izluchatel-dlja-ultrafioletovogo-obezzarazhivanija-viqua-s810rl-810-mm-fp017332-ru?search=S810",
+  website: "Filterpoint",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link:
+   "https://filterpoint.com.ua/viqua-smennyj-izluchatel-dlja-ultrafioletovogo-obezzarazhivanija-viqua-s36rl-840-mm-fp013257-ru",
+  website: "Filterpoint",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link:
+   "https://filterpoint.com.ua/viqua-ultrafioletovyj-obezzarazhivatel-viqua-sterilight-vh410-fp010076",
+  website: "Filterpoint",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link:
+   "https://filterpoint.com.ua/viqua-ultrafioletovyj-obezzarazhivatel-viqua-sterilight-vp600-fp010077",
+  website: "Filterpoint",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link:
+   "https://filterpoint.com.ua/crystal-smennyj-izluchatel-dlja-ultrafioletovogo-obezzarazhivanija-crystal-uv-2gpm-328-mm-fp013254-ru",
+  website: "Filterpoint",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Filterpoint",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "http://nemofilter.kiev.ua/hon_ff06_12_aa/",
+  website: "Nemofilter",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/hon_ff06_12_aam/",
+  website: "Nemofilter",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/hon_fk06_12_aa/",
+  website: "Nemofilter",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/hon_fk06_12_aam/",
+  website: "Nemofilter",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/d04fs_12_a/",
+  website: "Nemofilter",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/hon_ff06_34_aa/",
+  website: "Nemofilter",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/s330rl/",
+  website: "Nemofilter",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/s463rl/",
+  website: "Nemofilter",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/s810rl/",
+  website: "Nemofilter",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/s36rl/",
+  website: "Nemofilter",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/viqua_s150rl-ho/",
+  website: "Nemofilter",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "http://nemofilter.kiev.ua/s600rl-ho/",
+  website: "Nemofilter",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Nemofilter",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "https://aqua-life.ua/product/ff061-2aa/",
+  website: "Aqualife",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link: "https://aqua-life.ua/product/ff061-2aam/",
+  website: "Aqualife",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "https://aqua-life.ua/product/filtr-mehanicheskij-promyvnoj/",
+  website: "Aqualife",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "https://aqua-life.ua/product/fk061-2aam/",
+  website: "Aqualife",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "https://aqua-life.ua/product/d04fs1-2a/",
+  website: "Aqualife",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "https://aqua-life.ua/product/ff063-4aa/",
+  website: "Aqualife",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "https://aqua-life.ua/product/s330rl/",
+  website: "Aqualife",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "https://aqua-life.ua/product/s463rl/",
+  website: "Aqualife",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "https://aqua-life.ua/product/s810rl/",
+  website: "Aqualife",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "https://aqua-life.ua/product/s36rl/",
+  website: "Aqualife",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "https://aqua-life.ua/product/s150-rl-ho/",
+  website: "Aqualife",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "https://aqua-life.ua/product/s600-rl-ho/",
+  website: "Aqualife",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link:
+   "https://aqua-life.ua/product/viqua-sterilight-home-vh150-2-uf-obezzarazhivatel/",
+  website: "Aqualife",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "https://aqua-life.ua/product/s12q-pa/",
+  website: "Aqualife",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "https://aqua-life.ua/product/sm-80/",
+  website: "Aqualife",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Aqualife",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link:
+   "https://smartfilter.com.ua/mehanicheskij-filtr-dlya-holodnoj-vody-honeywell-ff06-1-2aa.html",
+  website: "Smartfilter",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link:
+   "https://smartfilter.com.ua/mehanicheskij-filtr-dlya-goryachej-vody-honeywell-ff06-1-2aam.html",
+  website: "Smartfilter",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link:
+   "https://smartfilter.com.ua/mehanicheskij-filtr-dlya-holodnoj-vody-s-reduktorom-honeywell-fk06-1-2aa.html",
+  website: "Smartfilter",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link:
+   "https://smartfilter.com.ua/mehanicheskij-filtr-dlya-goryachej-vody-s-reduktorom-honeywell-fk06-1-2aam.html",
+  website: "Smartfilter",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link:
+   "https://smartfilter.com.ua/reduktor-ponizhennya-tisku-honeywell-d04fm-1-2a.html",
+  website: "Smartfilter",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link:
+   "https://smartfilter.com.ua/mehanicheskij-filtr-dlya-holodnoj-vody-honeywell-ff06-3-4aa.html",
+  website: "Smartfilter",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Smartfilter",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "",
+  website: "Afilter",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link:
+   "https://a-filter.com.ua/ua/p1042357986-smennaya-ultrafioletovaya-lampa.html",
+  website: "Afilter",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link:
+   "https://a-filter.com.ua/ua/p725820705-smennaya-ultrafioletovaya-lampa.html",
+  website: "Afilter",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link:
+   "https://a-filter.com.ua/ua/p638726545-smennaya-ultrafioletovaya-lampa.html",
+  website: "Afilter",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link:
+   "https://a-filter.com.ua/ua/p687942680-smennaya-ultrafioletovaya-lampa.html",
+  website: "Afilter",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "https://a-filter.com.ua/ua/p1359435136-sistema-vh1502.html",
+  website: "Afilter",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Afilter",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "https://hydroeco.in.ua/ua/p1320728965-smennaya-lampa-sterilume.html",
+  website: "Hydroeco",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "https://hydroeco.in.ua/ua/p1320734894-smennaya-lampa-sterilume.html",
+  website: "Hydroeco",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "https://hydroeco.in.ua/ua/p1320737190-smennaya-lampa-sterilume.html",
+  website: "Hydroeco",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "https://hydroeco.in.ua/ua/p1339891287-smennaya-lampa-sterilume.html",
+  website: "Hydroeco",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "https://hydroeco.in.ua/ua/p1340014261-smennaya-lampa-sterilume.html",
+  website: "Hydroeco",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link:
+   "https://hydroeco.in.ua/ua/p1320722880-sistema-obezzarazhivaniya-viqua.html",
+  website: "Hydroeco",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link:
+   "https://hydroeco.in.ua/ua/p1320724820-sistema-obezzarazhivaniya-viqua.html",
+  website: "Hydroeco",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link:
+   "https://hydroeco.in.ua/ua/p1320725799-sistema-obezzarazhivaniya-viqua.html",
+  website: "Hydroeco",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Hydroeco",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link:
    "https://profimann.com.ua/filtry-dlya-vody/filtry-mehanicheskoy-ochistki-vody/promyvnoy-filtr-honeywell-ff06-1-2aa-100-mkm-dlya-holodnoy-vody/",
   website: "Profimann",
   name: "FF06-1/2AA",
   normalPrice: 1800,
+ },
+ {
+  link:
+   "https://profimann.com.ua/uk/filtry-dlya-vody/filtry-mehanicheskoy-ochistki-vody/promyvnoy-filtr-honeywell-ff06-1-2aam-tonkoy-mehanicheskoy-ochistki/",
+  website: "Profimann",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link:
+   "https://profimann.com.ua/uk/filtry-dlya-vody/filtry-mehanicheskoy-ochistki-vody/kompaktnyy-filtr-dlya-holodnoy-vody-s-regulyatorom-davleniya-honeywell-fk06-1-2aa/",
+  website: "Profimann",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link:
+   "https://profimann.com.ua/uk/filtry-dlya-vody/filtry-mehanicheskoy-ochistki-vody/filtr-s-regulyatorom-davleniya-honeywell-fk06-1-2aam-dlya-gv/",
+  website: "Profimann",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link:
+   "https://profimann.com.ua/uk/predohranitelnaya-armatura/reduktory-davleniya-vody/regulyator-davleniya-honeywell-d04fm-1-2a/",
+  website: "Profimann",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link:
+   "https://profimann.com.ua/uk/filtry-dlya-vody/filtry-mehanicheskoy-ochistki-vody/promyvnoy-filtr-honeywell-ff06-3-4aa-tonkoy-mehanicheskoy-ochistki/",
+  website: "Profimann",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Profimann",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link:
+   "https://filter.ua/shop/bytovaya_voda/magistralnye/mekhanicheskoy_ochistki/honeywell_ff06-1_2aa_dlya_holodnoy_vody_mehanicheskiy_filtr.html",
+  website: "Filter",
+  name: "FF06-1/2AA",
+  normalPrice: 1800,
+ },
+ {
+  link:
+   "https://filter.ua/shop/bytovaya_voda/magistralnye/mekhanicheskoy_ochistki/honeywell_ff06-1_2aam_dlya_goryachey_vody_mehanicheskiy_filtr.html",
+  website: "Filter",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link:
+   "https://filter.ua/shop/bytovaya_voda/magistralnye/mekhanicheskoy_ochistki/honeywell_fk06-1_2_aa_dlya_holodnoy_vody_s_reduktorom_mehanicheskiy_filtr.html",
+  website: "Filter",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link:
+   "https://filter.ua/shop/bytovaya_voda/magistralnye/mekhanicheskoy_ochistki/honeywell_fk06-1_2_aam_mehanicheskiy_filtr.html",
+  website: "Filter",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link:
+   "https://filter.ua/shop/dopolneniya_i_zapchasti/reduktora_davleniya/honeywell_d04fm_1_2a.html",
+  website: "Filter",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link:
+   "https://filter.ua/shop/bytovaya_voda/magistralnye/mekhanicheskoy_ochistki/honeywell_ff06-aa_3_4_dlya_holodnoy_vody_mehanicheskiy_filtr.html",
+  website: "Filter",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link:
+   "https://filter.ua/shop/dopolneniya_i_zapchasti/aksessuary_i_komplektuyushchiye/smennyye_uf_lampy/smennaya_ultrafioletovaya_lampa_uv_r-can_s330rl.html",
+  website: "Filter",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link:
+   "https://filter.ua/shop/dopolneniya_i_zapchasti/aksessuary_i_komplektuyushchiye/smennyye_uf_lampy/smennaya_ultrafioletovaya_lampa_uv_r-can_s463rl.html",
+  website: "Filter",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link:
+   "https://filter.ua/shop/dopolneniya_i_zapchasti/aksessuary_i_komplektuyushchiye/smennyye_uf_lampy/smennaya_ultrafioletovaya_lampa_uv_r-can_s810rl.html",
+  website: "Filter",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link:
+   "https://filter.ua/shop/dopolneniya_i_zapchasti/aksessuary_i_komplektuyushchiye/smennyye_uf_lampy/smennaya_ultrafioletovaya_lampa_uv_r-can_s36rl.html",
+  website: "Filter",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link:
+   "https://filter.ua/shop/dopolneniya_i_zapchasti/aksessuary_i_komplektuyushchiye/smennyye_uf_lampy/smennaya_ultrafioletovaya_lampa_uv_r-can_s150rl-ho.html",
+  website: "Filter",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link:
+   "https://filter.ua/shop/dopolneniya_i_zapchasti/aksessuary_i_komplektuyushchiye/smennyye_uf_lampy/smennaya_ultrafioletovaya_lampa_uv_r-can_s600rl-ho.html",
+  website: "Filter",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link:
+   "https://filter.ua/shop/bytovaya_voda/ultrafioletovye_obezzarazhivateli/ultrafioletovyy_obezzarazhivatel_viqua_sterilight_home_vh150_2.html",
+  website: "Filter",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link:
+   "https://filter.ua/shop/bytovaya_voda/ultrafioletovye_obezzarazhivateli/ultrafioletovyy_obezzarazhivatel_sterilight_uv_r-can_vh410_2.html",
+  website: "Filter",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link:
+   "https://filter.ua/shop/bytovaya_voda/ultrafioletovye_obezzarazhivateli/sterilight_uv_r-can_sc600_ultrafioletovyy_obezzarazhivatel.html",
+  website: "Filter",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Filter",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link:
+   "https://softis.ua/rus/catalog/filtr-mehanicheskoy-ochistki--honeywell-ff06-12aa/",
+  website: "Softis",
+  name: "FF06-1/2AA",
+  normalPrice: 1800,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/filtr-goryachey-vody-honeywell-ff06-12aam-dlya-goryachey-vody/",
+  website: "Softis",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/smennyy-ultrafioletovyy-izluchatel-uv-r-can-s287rl330/",
+  website: "Softis",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/smennyy-ultrafioletovyy-izluchatel-uv-r-can-s463rl/",
+  website: "Softis",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/smennyy-ultrafioletovyy-izluchatel-uv-r-can-s810rl/",
+  website: "Softis",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/smennyy-ultrafioletovyy-izluchatel-uv-r-can-s36rl/",
+  website: "Softis",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/smennyy-ultrafioletovyy-izluchatel-uv-r-can-s600rl-ho/",
+  website: "Softis",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/ultrafioletovyy-obezzarazhivatel-sterilight-home-vh1502/",
+  website: "Softis",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/ultrafioletovyy-obezzarazhivatel-vody-viqua-sterilight-vh410/",
+  website: "Softis",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "https://softis.ua/rus/catalog/ror-136216624/",
+  website: "Softis",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/ultrafioletovaya-lampa-crystal-uv-6gpm-2103213618/",
+  website: "Softis",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/ultrafioletovaya-lampa-crystal-uv-10gpm/",
+  website: "Softis",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link:
+   "https://softis.ua/rus/catalog/ultrafioletovaya-lampa-crystal-uv-10gpm-2120569333/",
+  website: "Softis",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Softis",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
  },
 ];
