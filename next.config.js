@@ -4,6 +4,7 @@ const nextConfig = {
   env: {
     MODELS: 25,
   },
+  staticPageGenerationTimeout: 600000,
 }
 
 module.exports = nextConfig
