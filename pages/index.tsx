@@ -2,11 +2,11 @@ import axios from "axios";
 import { resolveUrl } from "@/utils";
 import { links } from "@/utils/data";
 import { IFilter } from "@/types";
-import LoginForm from "@/components/loginForm";
 import ProtectedPage from "@/components/protectedPage";
 import { checkToken } from "@/utils/checkToken";
 import { useEffect, useState } from "react";
 import Head from "next/head";
+import LoginForm from "@/components/loginForm";
 
 export const getStaticProps = async () => {
  let res = [];

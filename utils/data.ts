@@ -132,7 +132,7 @@ export const links = [
  },
  {
   link:
-   "https://rolfis.com.ua/shop/raskhodnye-materialy-i-komplektuyuschie/smennye_kartridgi/smennaya-lampa-crystal-uv-05gpm.html",
+   "https://rolfis.com.ua/shop/raskhodnye-materialy-i-komplektuyuschie/ultrafioletovye-lampy/ultrafioletovaya-lampa-crystal-uv-05gpm.html",
   website: "Rolfis",
   name: "UV-0.5GPM",
   normalPrice: UV05GPM,
@@ -372,7 +372,7 @@ export const links = [
   normalPrice: FF0612AA,
  },
  {
-  link: "",
+  link: "https://aquapure.com.ua/filtr-dlya-vody-honeywell-ff06-1-2aam",
   website: "Aquapure",
   name: "FF06-1/2AAM",
   normalPrice: FF0612AAM,
@@ -385,13 +385,14 @@ export const links = [
   normalPrice: FK0612AA,
  },
  {
-  link: "",
+  link:
+   "https://aquapure.com.ua/honeywell-fk06-1-2aa-promyvnoj-filtr-dlya-vody-s-reduktorom",
   website: "Aquapure",
   name: "FK06-1/2AAM",
   normalPrice: FK0612AAM,
  },
  {
-  link: "",
+  link: "https://aquapure.com.ua/reduktor-davleniya-honeywell-d04fm-1-2a",
   website: "Aquapure",
   name: "D04FM-1/2A",
   normalPrice: D04FM12A,
