@@ -4,7 +4,7 @@ export interface IFilter {
  price: string;
  normalPrice: string;
  website: string;
- lastScrapped: Date;
+ lastScraped: Date;
 }
 
 export interface IFilters {
