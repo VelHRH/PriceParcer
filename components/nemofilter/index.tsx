@@ -10,7 +10,7 @@ export const Nemofilter = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <NemofilterCell key={el.link} element={el} />
+      <NemofilterCell key={el.title} element={el} />
      ))}
    </div>
   </div>

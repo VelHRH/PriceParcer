@@ -10,7 +10,7 @@ export const Yvk = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <YvkCell key={el.link} element={el} />
+      <YvkCell key={el.title} element={el} />
      ))}
    </div>
   </div>

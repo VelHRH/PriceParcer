@@ -10,7 +10,7 @@ export const Iwater = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <IwaterCell key={el.link} element={el} />
+      <IwaterCell key={el.title} element={el} />
      ))}
    </div>
   </div>

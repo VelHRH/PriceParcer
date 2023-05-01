@@ -10,7 +10,7 @@ export const Softis = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <SoftisCell key={el.link} element={el} />
+      <SoftisCell key={el.title} element={el} />
      ))}
    </div>
   </div>

@@ -10,7 +10,7 @@ export const Rolfis = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <RolfisCell key={el.link} element={el} />
+      <RolfisCell key={el.title} element={el} />
      ))}
    </div>
   </div>

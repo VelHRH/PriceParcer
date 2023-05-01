@@ -10,7 +10,7 @@ export const Aquastory = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <AquastoryCell key={el.link} element={el} />
+      <AquastoryCell key={el.title} element={el} />
      ))}
    </div>
   </div>

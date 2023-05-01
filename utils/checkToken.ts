@@ -12,6 +12,7 @@ export const createToken = (login: string, password: string): string => {
 
 export const checkToken = (): boolean => {
  if (typeof window !== "undefined") {
+  console.log(process.env.PASSWORD + ", " + process.env.LOGIN);
   const token = localStorage.getItem("myToken");
   if (token) {
    const decodedToken = jwt.decode(token) as {

@@ -10,7 +10,7 @@ export const Pershavoda = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <PershavodaCell key={el.link} element={el} />
+      <PershavodaCell key={el.title} element={el} />
      ))}
    </div>
   </div>

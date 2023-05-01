@@ -10,7 +10,7 @@ export const Aquapure = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <AquapureCell key={el.link} element={el} />
+      <AquapureCell key={el.title} element={el} />
      ))}
    </div>
   </div>

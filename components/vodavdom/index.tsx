@@ -10,7 +10,7 @@ export const Vodavdom = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <VodavdomCell key={el.link} element={el} />
+      <VodavdomCell key={el.title} element={el} />
      ))}
    </div>
   </div>

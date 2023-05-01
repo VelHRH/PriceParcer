@@ -10,7 +10,7 @@ export const Profimann = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <ProfimannCell key={el.link} element={el} />
+      <ProfimannCell key={el.title} element={el} />
      ))}
    </div>
   </div>

@@ -10,7 +10,7 @@ export const Edobro = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <EdobroCell key={el.link} element={el} />
+      <EdobroCell key={el.title} element={el} />
      ))}
    </div>
   </div>

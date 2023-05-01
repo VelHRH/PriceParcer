@@ -10,7 +10,7 @@ export const Aquaroom = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <AquaroomCell key={el.link} element={el} />
+      <AquaroomCell key={el.title} element={el} />
      ))}
    </div>
   </div>

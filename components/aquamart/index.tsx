@@ -10,7 +10,7 @@ export const Aquamart = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <AquamartCell key={el.link} element={el} />
+      <AquamartCell key={el.title} element={el} />
      ))}
    </div>
   </div>

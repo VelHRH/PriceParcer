@@ -10,7 +10,7 @@ export const Viqua = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <ViquaCell key={el.link} element={el} />
+      <ViquaCell key={el.title} element={el} />
      ))}
    </div>
   </div>

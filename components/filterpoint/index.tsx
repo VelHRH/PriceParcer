@@ -10,7 +10,7 @@ export const Filterpoint = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <FilterpointCell key={el.link} element={el} />
+      <FilterpointCell key={el.title} element={el} />
      ))}
    </div>
   </div>

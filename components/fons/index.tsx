@@ -10,7 +10,7 @@ export const Fons = ({ data }: IFilters) => {
     {data
      .filter((d) => d.website === site)
      .map((el) => (
-      <FonsCell key={el.link} element={el} />
+      <FonsCell key={el.title} element={el} />
      ))}
    </div>
   </div>
