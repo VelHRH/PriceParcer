@@ -13,7 +13,9 @@ export const HeadRow = () => {
         <HeadRowElem key={link.link}>{link.name}</HeadRowElem>
        )
      )}
-    <div className={`w-25r text-sm text-center text-sky-200`}>lamp 12GPM</div>
+    <div className={`w-25r text-sm text-center text-yellow-200`}>
+     lamp 12GPM
+    </div>
    </div>
   </div>
  );
