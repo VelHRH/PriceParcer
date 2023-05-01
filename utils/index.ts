@@ -111,6 +111,30 @@ export const resolveUrl = async (link: string) => {
    "#panel > div > div > div.row.categories-products-row > div > div.row.product-row.product-with-image > div.product-details-block.product-container.max-6.desktop-6.tablet-6.mobile-3.min-3 > div.product-price-buy-block > div.product-price-block > price > div > span"
   ).text();
  }
+ if (link.includes("yvk.com")) {
+  price = $("#center_column").text();
+ }
+ if (link.includes("waterboss")) {
+  price = $(
+   "#content > div.row > div.col-sm-7.block-2 > ul:nth-child(5) > li > span"
+  ).text();
+ }
+ if (link.includes("aqua-room")) {
+  price = $("#product > ul.list-unstyled.price > li").text();
+ }
+ if (link.includes("viqua.")) {
+  price = $(
+   "body > main > article > div.cs-page__main-content > div.cs-product.js-productad > div.cs-product__info-row > div.cs-product__wholesale-price.cs-online-edit > div > p > span:nth-child(1)"
+  ).text();
+ }
+ if (link.includes("aqua-mart")) {
+  price = $("#totalPrice").text();
+ }
+ if (link.includes("www.honeywell.in.ua")) {
+  price =
+   $("#product > div > div.price > span.price-new > span").text() ||
+   $("#product > div > div.price > span").text();
+ }
  const lastScraped = new Date().toISOString();
  return { price, lastScraped };
 };

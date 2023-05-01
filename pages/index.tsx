@@ -1,5 +1,5 @@
 // @ts-nocheck
-
+import axios from "axios";
 import { Rolfis } from "@/components/rolfis";
 import { resolveUrl } from "@/utils";
 import Head from "next/head";
@@ -23,11 +23,35 @@ import { Afilter } from "@/components/afilter";
 import { Hydroeco } from "@/components/hydroeco";
 import { Filter } from "@/components/filter";
 import { Softis } from "@/components/softis";
+import { Yvk } from "@/components/yvk";
+import { Waterboss } from "@/components/waterboss";
+import { Aquaroom } from "@/components/aquaroom";
+import { Viqua } from "@/components/viqua";
+import { Aquamart } from "@/components/aquamart";
+import { Honeywell } from "@/components/honeywell";
 
 export const getStaticProps = async () => {
  let res = [];
  for (let link of links) {
-  const { price, lastScraped } = await resolveUrl(link.link);
+  let { price, lastScraped } = await resolveUrl(link.link);
+  if (price.includes("€")) {
+   const response = await axios.get(
+    "https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?json&valcode=EUR"
+   );
+   const exchangeRate = response.data[0].rate;
+
+   price =
+    (
+     parseFloat(
+      price
+       .replace(/\s/g, "")
+       .slice(
+        price.replace(/\s/g, "").indexOf("цена") + 5,
+        price.replace(/\s/g, "").indexOf("€") - 3
+       )
+     ) * exchangeRate
+    ).toString() + "€";
+  }
   res.push({
    link: link.link,
    title: link.name,
@@ -74,6 +98,12 @@ export default function Home(props: { res: IFilters }) {
    <Profimann data={props.res} />
    <Filter data={props.res} />
    <Softis data={props.res} />
+   <Yvk data={props.res} />
+   <Waterboss data={props.res} />
+   <Aquaroom data={props.res} />
+   <Viqua data={props.res} />
+   <Aquamart data={props.res} />
+   <Honeywell data={props.res} />
   </div>
  );
 }

@@ -2869,4 +2869,1132 @@ export const links = [
   name: "lamp 12GPM",
   normalPrice: lamp12GPM,
  },
+
+ {
+  link: "https://yvk.com.ua/honeywell-ff06-12-aa-miniplus",
+  website: "Yvk",
+  name: "FF06-1/2AA",
+  normalPrice: 1800,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "https://yvk.com.ua/honeywell-fk06-12-aa",
+  website: "Yvk",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "https://yvk.com.ua/honeywell-fk06-12-aam",
+  website: "Yvk",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "https://yvk.com.ua/reduktor-davleniya-honeywell-d04fm-1-2-a",
+  website: "Yvk",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "https://yvk.com.ua/honeywell-ff06-34-aa-miniplus",
+  website: "Yvk",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "https://yvk.com.ua/viqua-sterilight-s330rl-smennaya-lampa",
+  website: "Yvk",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "https://yvk.com.ua/viqua-sterilight-s463rl-smennaya-lampa",
+  website: "Yvk",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "https://yvk.com.ua/viqua-sterilight-s810rl-smennaya-lampa",
+  website: "Yvk",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "https://yvk.com.ua/viqua-sterilight-s36rl-smennaya-lampa",
+  website: "Yvk",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link:
+   "https://yvk.com.ua/viqua-sterilight-r-can-vp-600-2-ultrafioletovyj-obezzarazhivatel",
+  website: "Yvk",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Yvk",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "",
+  website: "Waterboss",
+  name: "FF06-1/2AA",
+  normalPrice: 1800,
+ },
+ {
+  link: "",
+  website: "Waterboss",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "",
+  website: "Waterboss",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "",
+  website: "Waterboss",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Waterboss",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "",
+  website: "Waterboss",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D0%B7%D0%BC%D1%96%D0%BD%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D1%84-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%83%D0%B2%D0%B0%D1%87%D0%B0-%D0%B2%D0%BE%D0%B4%D0%B8/sterilight-s330rl-viqua-uv-zminna-lampa?search=S330",
+  website: "Waterboss",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D0%B7%D0%BC%D1%96%D0%BD%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D1%84-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%83%D0%B2%D0%B0%D1%87%D0%B0-%D0%B2%D0%BE%D0%B4%D0%B8/sterilight-s463rl-viqua-uv-zminna-lampa",
+  website: "Waterboss",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D0%B7%D0%BC%D1%96%D0%BD%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D1%84-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%83%D0%B2%D0%B0%D1%87%D0%B0-%D0%B2%D0%BE%D0%B4%D0%B8/sterilight-s810rl-viqua-uv-smennaya-lampa",
+  website: "Waterboss",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D0%B7%D0%BC%D1%96%D0%BD%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D1%84-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%83%D0%B2%D0%B0%D1%87%D0%B0-%D0%B2%D0%BE%D0%B4%D0%B8/sterilight-s36rl-viqua-uv-smennaya-lampa",
+  website: "Waterboss",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Waterboss",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "",
+  website: "Waterboss",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/sterilight-home-vh150-2-viqua?search=VH150",
+  website: "Waterboss",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/sterilight-home-vh450-2-viqua?search=VH410",
+  website: "Waterboss",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/sterilight-proffesional-vp600-2-viqua?search=VP600",
+  website: "Waterboss",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/ul%CA%B9trafioletova-systema-crystal-uv-0-5gmp",
+  website: "Waterboss",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/ul%CA%B9trafioletova-systema-crystal-uv-2gmp?search=2GPM",
+  website: "Waterboss",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/ul%CA%B9trafioletova-systema-crystal-uv-6gmp?search=6GPM",
+  website: "Waterboss",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/ul%CA%B9trafioletova-systema-crystal-uv-10gmp",
+  website: "Waterboss",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/ul%CA%B9trafioletova-systema-crystal-uv-12gmp",
+  website: "Waterboss",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/uv-lamp-6w-vyprominyuvach-dlya-uf-lampy-uv-0-5-gmp-raifil",
+  website: "Waterboss",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D0%B7%D0%BC%D1%96%D0%BD%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D1%84-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%83%D0%B2%D0%B0%D1%87%D0%B0-%D0%B2%D0%BE%D0%B4%D0%B8/uf-lampa-zminna-uv-2gpm-crystal?search=2GPM",
+  website: "Waterboss",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D0%B7%D0%BC%D1%96%D0%BD%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D1%84-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%83%D0%B2%D0%B0%D1%87%D0%B0-%D0%B2%D0%BE%D0%B4%D0%B8/uf-lampa-zminna-uv-6gpm-crystal?search=6GPM",
+  website: "Waterboss",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D0%B7%D0%BC%D1%96%D0%BD%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D1%84-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%83%D0%B2%D0%B0%D1%87%D0%B0-%D0%B2%D0%BE%D0%B4%D0%B8/uf-lampa-zminna-uv-10gpm-crystal?search=10GPM",
+  website: "Waterboss",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link:
+   "https://waterboss.kiev.ua/ua/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-waterboss-%D1%83%D0%BA%D1%80/%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B8/%D0%B7%D0%BC%D1%96%D0%BD%D0%BD%D0%B0-%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0-%D0%B4%D0%BB%D1%8F-%D1%83%D1%84-%D0%B7%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D1%83%D0%B2%D0%B0%D1%87%D0%B0-%D0%B2%D0%BE%D0%B4%D0%B8/uf-lampa-zminna-uv-12gpm-crystal",
+  website: "Waterboss",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "https://www.aqua-room.com.ua/honeywell-ff06-1-2aa",
+  website: "Aquaroom",
+  name: "FF06-1/2AA",
+  normalPrice: 1800,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/honeywell-ff06-1-2aam",
+  website: "Aquaroom",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/honeywell-fk06-1-2aa",
+  website: "Aquaroom",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/honeywell-fk06-1-2aam",
+  website: "Aquaroom",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Aquaroom",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/honeywell-ff06-3-4aa",
+  website: "Aquaroom",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/s330rl",
+  website: "Aquaroom",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/s463rl",
+  website: "Aquaroom",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/s810rl",
+  website: "Aquaroom",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/s36rl",
+  website: "Aquaroom",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Aquaroom",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/sterilight-s600rl",
+  website: "Aquaroom",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Aquaroom",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/viqua-vh410-2-ultrafioletovaya-lampa",
+  website: "Aquaroom",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/viqua-vp-600",
+  website: "Aquaroom",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Aquaroom",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/crystal-uv-2gpm-ultrafioletovaya-lampa",
+  website: "Aquaroom",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/crystal-uv-6gpm-ultrafioletovaya-lampa",
+  website: "Aquaroom",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/crystal-uv-10gpm-ultrafioletovaya-lampa",
+  website: "Aquaroom",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "https://www.aqua-room.com.ua/crystal-uv-12gpm-ultrafioletovaya-lampa",
+  website: "Aquaroom",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Aquaroom",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link:
+   "https://www.aqua-room.com.ua/smennaya-ultrafioletovaya-lampa-crystal-lamp-for-uv-2gpm",
+  website: "Aquaroom",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link:
+   "https://www.aqua-room.com.ua/smennaya-ultrafioletovaya-lampa-crystal-lamp-for-uv-6gpm",
+  website: "Aquaroom",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link:
+   "https://www.aqua-room.com.ua/smennaya-ultrafioletovaya-lampa-crystal-lamp-for-u-10gpm",
+  website: "Aquaroom",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Aquaroom",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link:
+   "https://viqua.prom.ua/ua/p1793613153-magistralnyj-promyvnoj-filtr.html",
+  website: "Viqua",
+  name: "FF06-1/2AA",
+  normalPrice: 1800,
+ },
+ {
+  link: "",
+  website: "Viqua",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "",
+  website: "Viqua",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "",
+  website: "Viqua",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Viqua",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "",
+  website: "Viqua",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1658604647-smennyj-izluchatel-s330rl.html",
+  website: "Viqua",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1659622606-smennyj-izluchatel-s463rl.html",
+  website: "Viqua",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1659626334-smennyj-izluchatel-s810rl.html",
+  website: "Viqua",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1659614665-smennyj-izluchatel-s36rl.html",
+  website: "Viqua",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1658630437-smennyj-izluchatel-s150rl.html",
+  website: "Viqua",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1659127569-smennyj-izluchatel-s600rl.html",
+  website: "Viqua",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link:
+   "https://viqua.prom.ua/ua/p1657430687-ultrafioletovaya-sistema-viqua.html",
+  website: "Viqua",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link:
+   "https://viqua.prom.ua/ua/p1657452602-ultrafioletovaya-sistema-viqua.html",
+  website: "Viqua",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link:
+   "https://viqua.prom.ua/ua/p1657640332-ultrafioletovaya-sistema-viqua.html",
+  website: "Viqua",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link:
+   "https://viqua.prom.ua/ua/p1670398836-ultrafioletovaya-sistema-crystal.html",
+  website: "Viqua",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link:
+   "https://viqua.prom.ua/ua/p1670860345-ultrafioletovaya-sistema-crystal.html",
+  website: "Viqua",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link:
+   "https://viqua.prom.ua/ua/p1670878812-ultrafioletovaya-sistema-crystal.html",
+  website: "Viqua",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link:
+   "https://viqua.prom.ua/ua/p1670881462-ultrafioletovaya-sistema-crystal.html",
+  website: "Viqua",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link:
+   "https://viqua.prom.ua/ua/p1670895046-ultrafioletovaya-sistema-crystal.html",
+  website: "Viqua",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1705750409-smennyj-izluchatel-05gpm.html",
+  website: "Viqua",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1705825191-smennyj-izluchatel-2gpm.html",
+  website: "Viqua",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1705919269-smennyj-izluchatel-6gpm.html",
+  website: "Viqua",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1706598035-smennyj-izluchatel-10gpm.html",
+  website: "Viqua",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "https://viqua.prom.ua/ua/p1706630539-smennyj-izluchatel-12gpm.html",
+  website: "Viqua",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link:
+   "https://aqua-mart.com.ua/magistralnye-filtry/filtr-promyvnoy-honeywell-ff06-1-2-aa",
+  website: "Aquamart",
+  name: "FF06-1/2AA",
+  normalPrice: 1800,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/magistralnye-filtry/filtr-promyvnoy-honeywell-ff06-1-2-aam",
+  website: "Aquamart",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/magistralnye-filtry/filtr-promyvnoy-honeywell-fk06-1-2-aa",
+  website: "Aquamart",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/magistralnye-filtry/filtr-tonkoj-ochistki-honeywell-fk06-1-2-aam",
+  website: "Aquamart",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/magistralnye-filtry/reduktor-davleniya-honeywell-d04fs-1-2-a-2",
+  website: "Aquamart",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/magistralnye-filtry/filtr-tonkoj-ochistki-honeywell-ff06-3-4-aa",
+  website: "Aquamart",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/uf-obezzarazhivanie-vody/lampa-ultrafioletovaya-r-can-s330rl",
+  website: "Aquamart",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/uf-obezzarazhivanie-vody/lampa-ultrafioletovaya-r-can-s463rl",
+  website: "Aquamart",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/uf-obezzarazhivanie-vody/lampa-ultrafioletovaya-r-can-s810rl",
+  website: "Aquamart",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/uf-obezzarazhivanie-vody/lampa-ultrafioletovaya-r-can-s36rl",
+  website: "Aquamart",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/uf-obezzarazhivanie-vody/lampa-ultrafioletovaya-r-can-s600rl-ho",
+  website: "Aquamart",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/index.php?route=product/product&path=57&product_id=2968",
+  website: "Aquamart",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link:
+   "https://aqua-mart.com.ua/index.php?route=product/product&path=57&product_id=2969",
+  website: "Aquamart",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Aquamart",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link:
+   "https://www.honeywell.in.ua/%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9%20%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80/hp-lp3065.html",
+  website: "Honeywell",
+  name: "FF06-1/2AA",
+  normalPrice: 1800,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9%20%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80/honeywell-miniplus-ff06-1-2aam.html",
+  website: "Honeywell",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/reduktori-davlenija/honeywell-fk06/imac.html",
+  website: "Honeywell",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/reduktori-davlenija/honeywell-fk06/honeywell-fk06-1-2aam.html",
+  website: "Honeywell",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "https://www.honeywell.in.ua/reduktori-davlenija/test.html",
+  website: "Honeywell",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9%20%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80/honeywell-miniplus-ff06-3-4aa-.html",
+  website: "Honeywell",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/smennaja-lampa-sterilight-r-can-s64rl.html",
+  website: "Honeywell",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "https://www.honeywell.in.ua/uf-sistemi/smennaja-lampa-sterilume-.html",
+  website: "Honeywell",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "https://www.honeywell.in.ua/uf-sistemi/smennaja-lampa-.html",
+  website: "Honeywell",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/smennaja-lampa-viqua--steriligt----s36rl.html",
+  website: "Honeywell",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Honeywell",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "https://www.honeywell.in.ua/uf-sistemi/smennaja-.html",
+  website: "Honeywell",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Honeywell",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/uf-obezzarazhivatel-viqua-sterilight-s12q-pa.html",
+  website: "Honeywell",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "",
+  website: "Honeywell",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Honeywell",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/ultrafioletovaja-lampa-crystal-uv---2gmp.html",
+  website: "Honeywell",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/ultrafioletovaja-lampa-crystal-uv---6gmp.html",
+  website: "Honeywell",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/ultrafioletovaja-lampa-crystal-uv---10gmp.html",
+  website: "Honeywell",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/ultrafioletovaja-lampa-crystal-uv---12gmp.html",
+  website: "Honeywell",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Honeywell",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "https://www.honeywell.in.ua/uf-sistemi/smennaja-lampa-crystal-.html",
+  website: "Honeywell",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/smennaja-lampa-crystal-uv-6gpm.html",
+  website: "Honeywell",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/smennaja-lampa-crystal-uv-10gpm.html",
+  website: "Honeywell",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link:
+   "https://www.honeywell.in.ua/uf-sistemi/smennaja-lampa-crystal-uv-12gpm.html",
+  website: "Honeywell",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "",
+  website: "Iwater",
+  name: "FF06-1/2AA",
+  normalPrice: 1800,
+ },
+ {
+  link: "",
+  website: "Iwater",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "",
+  website: "Iwater",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "",
+  website: "Iwater",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Iwater",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "",
+  website: "Iwater",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "https://iwater.kiev.ua/ua/p823937120-smennyj-izluchatel-lampa.html",
+  website: "Iwater",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "https://iwater.kiev.ua/ua/p823937121-smennyj-izluchatel-lampa.html",
+  website: "Iwater",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "https://iwater.kiev.ua/ua/p823937123-smennyj-izluchatel-lampa.html",
+  website: "Iwater",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "https://iwater.kiev.ua/ua/p823937126-smennyj-izluchatel-lampa.html",
+  website: "Iwater",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "https://iwater.kiev.ua/ua/p823937133-smennyj-izluchatel-lampa.html",
+  website: "Iwater",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "https://iwater.kiev.ua/ua/p823937132-smennyj-izluchatel-lampa.html",
+  website: "Iwater",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1367674896-ultrafioletovaya-sistema-viqua.html",
+  website: "Iwater",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p823937075-ultrafioletovaya-sistema-viqua.html",
+  website: "Iwater",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p823937085-obezzarazhivatel-viqua-sterilight.html",
+  website: "Iwater",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1367489999-ultrafioletovyj-obezzarazhivatel-dlya.html",
+  website: "Iwater",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1164941743-ultrafioletovyj-obezzarazhivatel-dlya.html",
+  website: "Iwater",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1164952283-ultrafioletovyj-obezzarazhivatel-dlya.html",
+  website: "Iwater",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1165056508-ultrafioletovyj-obezzarazhivatel-dlya.html",
+  website: "Iwater",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1165063616-ultrafioletovyj-obezzarazhivatel-dlya.html",
+  website: "Iwater",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/site_search?search_term=%D0%97%D0%BC%D1%96%D0%BD%D0%BD%D0%B0+%D1%83%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D1%84%D1%96%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2%D0%B0+%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0+CRYSTAL+Lamp+for+UV-0.5+GPM",
+  website: "Iwater",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1165601596-smennaya-ultrafioletovaya-lampa.html",
+  website: "Iwater",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1165605844-smennaya-ultrafioletovaya-lampa.html",
+  website: "Iwater",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1165610160-smennaya-ultrafioletovaya-lampa.html",
+  website: "Iwater",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link:
+   "https://iwater.kiev.ua/ua/p1165611841-smennaya-ultrafioletovaya-lampa.html",
+  website: "Iwater",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
 ];
