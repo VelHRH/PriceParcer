@@ -135,6 +135,21 @@ export const resolveUrl = async (link: string) => {
    $("#product > div > div.price > span.price-new > span").text() ||
    $("#product > div > div.price > span").text();
  }
+ if (link.includes("iwater.kiev")) {
+  price = $(
+   "body > div.b-page > div.b-page__wrapper > div.b-page__main-content.b-page__main-content_page_product > aside > div.b-product.js-productad > div.b-product__info-line.b-product__info-line_width_discount > div.b-online-edit > div > p > span:nth-child(1)"
+  ).text();
+ }
+ if (link.includes("aquastory")) {
+  price = $(
+   "#content > div.row > div > div > div.col-sm-6.product-block > div.product-page__price.price > span"
+  ).text();
+ }
+ if (link.includes("kharkov.prom.ua")) {
+  price = $(
+   "#page-block > div > div._mMhc > div:nth-child(1) > div.ek-body__section > div.MafxA.sMS5m > div.l-GwW.oubfH > div.M3v0L.Oxjl-.VwHP6 > div > div.M3v0L.-pUjB.YKUY6.zG-pk > div > div.bkjEo > span"
+  ).text();
+ }
  const lastScraped = new Date().toISOString();
  return { price, lastScraped };
 };

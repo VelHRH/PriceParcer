@@ -2389,7 +2389,7 @@ export const links = [
    "https://profimann.com.ua/filtry-dlya-vody/filtry-mehanicheskoy-ochistki-vody/promyvnoy-filtr-honeywell-ff06-1-2aa-100-mkm-dlya-holodnoy-vody/",
   website: "Profimann",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link:
@@ -2546,7 +2546,7 @@ export const links = [
    "https://filter.ua/shop/bytovaya_voda/magistralnye/mekhanicheskoy_ochistki/honeywell_ff06-1_2aa_dlya_holodnoy_vody_mehanicheskiy_filtr.html",
   website: "Filter",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link:
@@ -2712,7 +2712,7 @@ export const links = [
    "https://softis.ua/rus/catalog/filtr-mehanicheskoy-ochistki--honeywell-ff06-12aa/",
   website: "Softis",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link:
@@ -2874,7 +2874,7 @@ export const links = [
   link: "https://yvk.com.ua/honeywell-ff06-12-aa-miniplus",
   website: "Yvk",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link: "",
@@ -3026,7 +3026,7 @@ export const links = [
   link: "",
   website: "Waterboss",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link: "",
@@ -3194,7 +3194,7 @@ export const links = [
   link: "https://www.aqua-room.com.ua/honeywell-ff06-1-2aa",
   website: "Aquaroom",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link: "https://www.aqua-room.com.ua/honeywell-ff06-1-2aam",
@@ -3349,7 +3349,7 @@ export const links = [
    "https://viqua.prom.ua/ua/p1793613153-magistralnyj-promyvnoj-filtr.html",
   website: "Viqua",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link: "",
@@ -3509,7 +3509,7 @@ export const links = [
    "https://aqua-mart.com.ua/magistralnye-filtry/filtr-promyvnoy-honeywell-ff06-1-2-aa",
   website: "Aquamart",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link:
@@ -3673,7 +3673,7 @@ export const links = [
    "https://www.honeywell.in.ua/%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D0%B2%D0%BD%D0%BE%D0%B9%20%D1%84%D0%B8%D0%BB%D1%8C%D1%82%D1%80/hp-lp3065.html",
   website: "Honeywell",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link:
@@ -3838,7 +3838,7 @@ export const links = [
   link: "",
   website: "Iwater",
   name: "FF06-1/2AA",
-  normalPrice: 1800,
+  normalPrice: FF0612AA,
  },
  {
   link: "",
@@ -3994,6 +3994,315 @@ export const links = [
   link:
    "https://iwater.kiev.ua/ua/p1165611841-smennaya-ultrafioletovaya-lampa.html",
   website: "Iwater",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "https://aquastory.com.ua/ua/honeywell-ff06-1-2aa-supercena.html",
+  website: "Aquastory",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link: "https://aquastory.com.ua/ua/honeywell-miniplus-ff06-1-2aam.html",
+  website: "Aquastory",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link:
+   "https://aquastory.com.ua/ua/reduktor-davleniya-honeywell-fk06-1-2aa.html",
+  website: "Aquastory",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link:
+   "https://aquastory.com.ua/ua/reduktor-davleniya-honeywell-fk06-1-2aam.html",
+  website: "Aquastory",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "https://aquastory.com.ua/ua/reduktor-honeywell-d04fm-1-2a.html",
+  website: "Aquastory",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link:
+   "https://aquastory.com.ua/ua/ultrafioletovaya-lampa-crystal-uv-2gpm.html",
+  website: "Aquastory",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link:
+   "https://aquastory.com.ua/ua/ultrafioletovaya-lampa-crystal-uv-6gpm.html",
+  website: "Aquastory",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link:
+   "https://aquastory.com.ua/ua/ultrafioletovaya-lampa-crystal-uv-10gpm.html",
+  website: "Aquastory",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "https://aquastory.com.ua/ua/smennaya-lampa-crystal-uv-2gpm.html",
+  website: "Aquastory",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "https://aquastory.com.ua/ua/smennaya-lampa-crystal-uv-6gpm.html",
+  website: "Aquastory",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "https://aquastory.com.ua/ua/smennaya-lampa-crystal-uv-10gpm.html",
+  website: "Aquastory",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Aquastory",
+  name: "lamp 12GPM",
+  normalPrice: lamp12GPM,
+ },
+
+ {
+  link: "",
+  website: "Arista",
+  name: "FF06-1/2AA",
+  normalPrice: FF0612AA,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "FF06-1/2AAM",
+  normalPrice: FF0612AAM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "FK06-1/2AA",
+  normalPrice: FK0612AA,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "FK06-1/2AAM",
+  normalPrice: FK0612AAM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "D04FM-1/2A",
+  normalPrice: D04FM12A,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "FF06-3/4AA",
+  normalPrice: FF0634AA,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "S330RL",
+  normalPrice: S330RL,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "S463RL",
+  normalPrice: S463RL,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "S810RL",
+  normalPrice: S810RL,
+ },
+ {
+  link:
+   "https://kharkov.prom.ua/ua/p617811369-s36rl-smennaya-lampa.html?&primelead=Mw",
+  website: "Arista",
+  name: "S36RL",
+  normalPrice: S36RL,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "S150RL",
+  normalPrice: S150RL,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "S600RL",
+  normalPrice: S600RL,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "VH150",
+  normalPrice: VH150,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "VH410",
+  normalPrice: VH410,
+ },
+ {
+  link:
+   "https://kharkov.prom.ua/ua/p12328699-promyshlennaya-ultrafioletovaya-ustanovka.html?&primelead=Mw",
+  website: "Arista",
+  name: "VP600",
+  normalPrice: VP600,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "UV-0.5GPM",
+  normalPrice: UV05GPM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "UV-2GPM",
+  normalPrice: UV2GPM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "UV-6GPM",
+  normalPrice: UV6GPM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "UV-10GPM",
+  normalPrice: UV10GPM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "UV-12GPM",
+  normalPrice: UV12GPM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "lamp 0.5GPM",
+  normalPrice: lamp05GPM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "lamp 2GPM",
+  normalPrice: lamp2GPM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "lamp 6GPM",
+  normalPrice: lamp6GPM,
+ },
+ {
+  link: "",
+  website: "Arista",
+  name: "lamp 10GPM",
+  normalPrice: lamp10GPM,
+ },
+ {
+  link: "",
+  website: "Arista",
   name: "lamp 12GPM",
   normalPrice: lamp12GPM,
  },

@@ -29,44 +29,58 @@ import { Aquaroom } from "@/components/aquaroom";
 import { Viqua } from "@/components/viqua";
 import { Aquamart } from "@/components/aquamart";
 import { Honeywell } from "@/components/honeywell";
+import { Iwater } from "@/components/iwater";
+import { Aquastory } from "@/components/aquastory";
+import { Arista } from "@/components/arista";
 
 export const getStaticProps = async () => {
  let res = [];
  for (let link of links) {
-  let { price, lastScraped } = await resolveUrl(link.link);
-  if (price.includes("€")) {
-   const response = await axios.get(
-    "https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?json&valcode=EUR"
-   );
-   const exchangeRate = response.data[0].rate;
+  if (link.link === "") {
+   res.push({
+    link: link.link,
+    title: link.name,
+    website: link.website,
+    price: "",
+    normalPrice: link.normalPrice,
+    lastScraped: new Date().toISOString(),
+   });
+  } else {
+   let { price, lastScraped } = await resolveUrl(link.link);
+   if (price.includes("€")) {
+    const response = await axios.get(
+     "https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?json&valcode=EUR"
+    );
+    const exchangeRate = response.data[0].rate;
 
-   price =
-    (
-     parseFloat(
-      price
-       .replace(/\s/g, "")
-       .slice(
-        price.replace(/\s/g, "").indexOf("цена") + 5,
-        price.replace(/\s/g, "").indexOf("€") - 3
-       )
-     ) * exchangeRate
-    ).toString() + "€";
+    price =
+     (
+      parseFloat(
+       price
+        .replace(/\s/g, "")
+        .slice(
+         price.replace(/\s/g, "").indexOf("цена") + 5,
+         price.replace(/\s/g, "").indexOf("€") - 3
+        )
+      ) * exchangeRate
+     ).toString() + "€";
+   }
+   res.push({
+    link: link.link,
+    title: link.name,
+    website: link.website,
+    price,
+    normalPrice: link.normalPrice,
+    lastScraped,
+   });
   }
-  res.push({
-   link: link.link,
-   title: link.name,
-   website: link.website,
-   price,
-   normalPrice: link.normalPrice,
-   lastScraped,
-  });
  }
 
  return {
   props: {
    res,
   },
-  revalidate: 86400,
+  revalidate: 3600,
  };
 };
 
@@ -104,6 +118,13 @@ export default function Home(props: { res: IFilters }) {
    <Viqua data={props.res} />
    <Aquamart data={props.res} />
    <Honeywell data={props.res} />
+   <Iwater data={props.res} />
+   <Aquastory data={props.res} />
+   <Arista data={props.res} />
+   <div className="text-center font-bold mt-5 text-sky-200">
+    Последнее обновление произошло{" "}
+    {new Date(props.res[0].lastScraped).toLocaleString()}
+   </div>
   </div>
  );
 }
