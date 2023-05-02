@@ -54,12 +54,13 @@ export const getStaticProps = async () => {
  return {
   props: {
    res,
+   updatedAt: new Date().toISOString(),
   },
   revalidate: 600,
  };
 };
 
-export default function Home(props: { res: IFilter[] }) {
+export default function Home(props: { res: IFilter[]; updatedAt: string }) {
  const [isAuthenticated, setIsAuthenticated] = useState(false);
  useEffect(() => {
   setIsAuthenticated(checkToken());
@@ -75,7 +76,11 @@ export default function Home(props: { res: IFilter[] }) {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="/favicon.ico" />
    </Head>
-   {!isAuthenticated ? <LoginForm /> : <ProtectedPage res={props.res} />}
+   {!isAuthenticated ? (
+    <LoginForm />
+   ) : (
+    <ProtectedPage res={props.res} updatedAt={props.updatedAt} />
+   )}
   </>
  );
 }

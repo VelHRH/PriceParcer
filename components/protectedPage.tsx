@@ -31,7 +31,10 @@ import { Iwater } from "@/components/iwater";
 import { Aquastory } from "@/components/aquastory";
 import { Arista } from "@/components/arista";
 
-export default function ProtectedPage(props: { res: IFilter[] }) {
+export default function ProtectedPage(props: {
+ res: IFilter[];
+ updatedAt: string;
+}) {
  return (
   <div className="text-md font-semibold p-2 text-slate-50">
    <HeadRow />
@@ -63,8 +66,7 @@ export default function ProtectedPage(props: { res: IFilter[] }) {
    <Aquastory data={props.res} />
    <Arista data={props.res} />
    <div className="text-center font-bold mt-5 text-sky-200">
-    Последнее обновление произошло{" "}
-    {new Date(props.res[0].lastScraped).toLocaleString()}
+    Последнее обновление произошло {new Date(props.updatedAt).toLocaleString()}
    </div>
   </div>
  );
