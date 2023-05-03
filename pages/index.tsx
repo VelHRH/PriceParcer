@@ -6,9 +6,10 @@ import ProtectedPage from "@/components/protectedPage";
 import { checkToken } from "@/utils/checkToken";
 import { useEffect, useState } from "react";
 import Head from "next/head";
+import { GetServerSideProps } from "next";
 import LoginForm from "@/components/loginForm";
 
-export const getStaticProps = async () => {
+export const getServerSideProps: GetServerSideProps = async () => {
  let res = [];
  for (let link of links) {
   if (link.link === "") {
@@ -54,13 +55,11 @@ export const getStaticProps = async () => {
  return {
   props: {
    res,
-   updatedAt: new Date().toISOString(),
   },
-  revalidate: 600,
  };
 };
 
-export default function Home(props: { res: IFilter[]; updatedAt: string }) {
+export default function Home(props: { res: IFilter[] }) {
  const [isAuthenticated, setIsAuthenticated] = useState(false);
  useEffect(() => {
   setIsAuthenticated(checkToken());
@@ -76,11 +75,7 @@ export default function Home(props: { res: IFilter[]; updatedAt: string }) {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" href="/favicon.ico" />
    </Head>
-   {!isAuthenticated ? (
-    <LoginForm />
-   ) : (
-    <ProtectedPage res={props.res} updatedAt={props.updatedAt} />
-   )}
+   {!isAuthenticated ? <LoginForm /> : <ProtectedPage res={props.res} />}
   </>
  );
 }
