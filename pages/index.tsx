@@ -6,10 +6,10 @@ import ProtectedPage from "@/components/protectedPage";
 import { checkToken } from "@/utils/checkToken";
 import { useEffect, useState } from "react";
 import Head from "next/head";
-import { GetServerSideProps } from "next";
+import { GetStaticProps } from "next";
 import LoginForm from "@/components/loginForm";
 
-export const getServerSideProps: GetServerSideProps = async () => {
+export const getStaticProps: GetStaticProps = async () => {
  let res = [];
  for (let link of links) {
   if (link.link === "") {
@@ -51,11 +51,15 @@ export const getServerSideProps: GetServerSideProps = async () => {
    });
   }
  }
-
+ const headers = {
+  "Cache-Control": "s-maxage=1, stale-while-revalidate",
+ };
  return {
   props: {
    res,
   },
+  revalidate: 600,
+  headers,
  };
 };
 
