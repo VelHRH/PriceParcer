@@ -1,7 +1,5 @@
 import axios from "axios";
 import { Rolfis } from "@/components/rolfis";
-import { resolveUrl } from "@/utils";
-import { links } from "@/utils/data";
 import { IFilter } from "@/types";
 import { Profimann } from "@/components/profimann";
 import { HeadRow } from "@/components/headRow";
@@ -62,6 +60,10 @@ export default function ProtectedPage(props: { res: IFilter[] }) {
    <Iwater data={props.res} />
    <Aquastory data={props.res} />
    <Arista data={props.res} />
+   <div className="text-center font-bold mt-5 text-sky-200">
+    Последнее обновление произошло{" "}
+    {new Date(props.res[0].lastScraped).toLocaleString()}
+   </div>
   </div>
  );
 }

@@ -51,15 +51,12 @@ export const getStaticProps: GetStaticProps = async () => {
    });
   }
  }
- const headers = {
-  "Cache-Control": "s-maxage=1, stale-while-revalidate",
- };
+
  return {
   props: {
    res,
   },
   revalidate: 600,
-  headers,
  };
 };
 
