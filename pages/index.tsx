@@ -65,9 +65,11 @@ export default function Home(props: { res: IFilter[] }) {
  useEffect(() => {
   setIsAuthenticated(checkToken());
  }, []);
+
  if (!isAuthenticated) {
   return <LoginForm />;
  }
+
  return (
   <>
    <Head>
