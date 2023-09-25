@@ -35,7 +35,8 @@ export const resolveUrl = async (link: string) => {
   }
   if (link.includes("aquapure")) {
    price = $(
-    "#product > div.product-page__actions.product-page__actions--bordered.products-qty-info > div.products-full-list__price > span.catalogue__price.catalogue__price--lg"
+    "#content > div.product-top > div.product-right > div.product-price > div > span" ||
+     "#content > div.product-top > div.product-right > div.product-price > div.product-price__price > span"
    ).text();
   }
   if (link.includes("vodavdom")) {
