@@ -89,10 +89,10 @@ export const resolveUrl = async (link: string) => {
   if (link.includes("smartfilter")) {
    price =
     $(
-     "#product_addtocart_form > div.product-view-detail > div.em-product-view.row > div.em-product-view-secondary.em-product-shop.col-sm-10 > div > div:nth-child(2) > div > p.special-price"
+     "#main > div.wrapper > section > div.product__grid > div.product__column.product__column--right.product__column--sticky > div > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div.product__block.product__block--wide > div > div > div.product-price__item.product-price__item--new"
     ).text() ||
     $(
-     "#product_addtocart_form > div.product-view-detail > div.em-product-view.row > div.em-product-view-secondary.em-product-shop.col-sm-10 > div > div:nth-child(2) > div > p.old-price"
+     "#main > div.wrapper > section > div.product__grid > div.product__column.product__column--right.product__column--sticky > div > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div.product__block.product__block--wide > div > div > div.product-price__old-price"
     ).text();
   }
   if (link.includes("a-filter")) {

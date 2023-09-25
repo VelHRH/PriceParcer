@@ -8,9 +8,7 @@ export const SmartfilterCell = ({ element }: { element: IFilter }) => {
    tooltip={`${element.website}, ${element.title}`}
    normalPrice={`${element.normalPrice}`}
   >
-   {element?.price
-    .slice(element?.price.indexOf("ce") + 2, element?.price.indexOf(","))
-    .replace(/\s/g, "")}
+   {element?.price.slice(0, element?.price.indexOf("г")).replace(/,/g, "")}
   </CellLight>
  );
 };
