@@ -27,11 +27,11 @@ export const CellLight = ({
     target="_blank"
     className={`cursor-pointer border-r-2 border-slate-700 w-25r text-center ${
      parseFloat(children.toString().replace(/\s/g, "")) >
-      parseFloat(normalPrice.toString().replace(/\s/g, "")) * 1.05 &&
+      parseFloat(normalPrice.toString().replace(/\s/g, "")) * 1.02 &&
      "text-green-400"
     } ${
      parseFloat(children.toString().replace(/\s/g, "")) <
-      parseFloat(normalPrice.toString().replace(/\s/g, "")) * 0.95 &&
+      parseFloat(normalPrice.toString().replace(/\s/g, "")) * 0.98 &&
      "text-red-400"
     }`}
    >
